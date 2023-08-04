@@ -14,14 +14,6 @@ namespace AuFeuLesPatternsModel
         private Bombardier? bombardier;
         private List<Ville> villes;
         private Dictionary<EnumTypeVisiteur,IVisiteur> visiteurs;
-        /// <summary>
-        /// Permet de verifier si les <see cref="Camion"/> sont deja en intervention (Version Asynchronne)
-        /// </summary>
-        public bool operationCamionEnCours { get; private set; }
-        /// <summary>
-        /// Permet de verifier si le <see cref="Bombardier"/> est deja en intervention (Version Asynchronne)
-        /// </summary>
-        public bool operationBombardierEnCours { get; private set; }
 
         public CentreAppel()
         {
