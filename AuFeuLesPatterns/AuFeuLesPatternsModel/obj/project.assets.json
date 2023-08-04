@@ -8,25 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gafacqueur\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\izaya\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\AuFeuLesPatternsModel.csproj",
+      "projectUniqueName": "E:\\SoraDev\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\AuFeuLesPatternsModel.csproj",
       "projectName": "AuFeuLesPatternsModel",
-      "projectPath": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\AuFeuLesPatternsModel.csproj",
-      "packagesPath": "C:\\Users\\gafacqueur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\obj\\",
+      "projectPath": "E:\\SoraDev\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\AuFeuLesPatternsModel.csproj",
+      "packagesPath": "C:\\Users\\izaya\\.nuget\\packages\\",
+      "outputPath": "E:\\SoraDev\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gafacqueur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\izaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

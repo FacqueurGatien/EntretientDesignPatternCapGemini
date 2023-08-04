@@ -22,3 +22,15 @@ C:\Users\gafacqueur\Pictures\EntretientCap\EntretientDesignPatternCapGemini\AuFe
 C:\Users\gafacqueur\Pictures\EntretientCap\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\refint\AuFeuLesPatternsModel.dll
 C:\Users\gafacqueur\Pictures\EntretientCap\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.pdb
 C:\Users\gafacqueur\Pictures\EntretientCap\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\ref\AuFeuLesPatternsModel.dll
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\bin\Debug\net6.0\AuFeuLesPatternsModel.deps.json
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\bin\Debug\net6.0\AuFeuLesPatternsModel.dll
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\bin\Debug\net6.0\AuFeuLesPatternsModel.pdb
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.csproj.AssemblyReference.cache
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.AssemblyInfoInputs.cache
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.AssemblyInfo.cs
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.csproj.CoreCompileInputs.cache
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.dll
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\refint\AuFeuLesPatternsModel.dll
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.pdb
+E:\SoraDev\EntretientDesignPatternCapGemini\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\ref\AuFeuLesPatternsModel.dll

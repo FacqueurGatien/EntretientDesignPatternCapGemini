@@ -78,12 +78,12 @@ namespace AuFeuLesPatternsModel
                 {
                     result += $"{compteur}e passage:\n{bombardier.Accept(visiteurs[EnumTypeVisiteur.Console])}\n";
                     compteur++;
-                    if (!operationBombardierEnCours)
+                    if (!bombardier.enIntervention)
                     {
-                        operationBombardierEnCours = true;
+                        bombardier.ChangerInterventionEtat();
                     }
                 }
-                operationBombardierEnCours = false;
+                bombardier.ChangerInterventionEtat();
             }
             else if (camions.Count > 0)
             {
@@ -92,14 +92,14 @@ namespace AuFeuLesPatternsModel
                     camions.ForEach(c =>
                     {
                         result += $"{compteur}e passage:\n{c.Accept(visiteurs[EnumTypeVisiteur.Console])}\n";
-                        if (!operationCamionEnCours)
+                        if (!c.enIntervention)
                         {
-                            operationCamionEnCours = true;
+                            c.ChangerInterventionEtat() ;
                         }
                         compteur++;
                     });
                 }
-                operationCamionEnCours = false;
+                camions.ForEach(c=>c.ChangerInterventionEtat());
             }
             result += $"l'incendie de {_ville.nom} est eteint\n" +
                 $"___________________________________________________________\n";

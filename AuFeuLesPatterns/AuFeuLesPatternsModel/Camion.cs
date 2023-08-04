@@ -9,6 +9,7 @@ namespace AuFeuLesPatternsModel
 {
     public class Camion : Vehicule
     {
+
         public Camion(IMediateur _mediateur) : base(_mediateur, $"Camion {++compteur}")
         {
             mediateur.AjouterColleague(this);

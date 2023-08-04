@@ -22,7 +22,7 @@ namespace AuFeuLesPatternVisiteur
         /// </summary>
         public string Visit(Camion _camion)
         {
-            if (!((CentreAppel)mediateur).operationCamionEnCours)
+            if (!_camion.enIntervention)
             {
                 //Premier passage
                 return $"1: Le {_camion.nom} démare\n" +
@@ -37,7 +37,7 @@ namespace AuFeuLesPatternVisiteur
         /// </summary>
         public string Visit(Bombardier _bombardier)
         {
-            if (!((CentreAppel)mediateur).operationCamionEnCours)
+            if (!_bombardier.enIntervention)
             {
                 //Premier passage
                 return $"1: Décolage du {_bombardier.nom}\n" +
