@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AuFeuLesPatterns/1.0.0": {
+        "dependencies": {
+          "AuFeuLesPatternsModel": "1.0.0"
+        },
+        "runtime": {
+          "AuFeuLesPatterns.dll": {}
+        }
+      },
+      "AuFeuLesPatternsModel/1.0.0": {
+        "runtime": {
+          "AuFeuLesPatternsModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AuFeuLesPatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AuFeuLesPatternsModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

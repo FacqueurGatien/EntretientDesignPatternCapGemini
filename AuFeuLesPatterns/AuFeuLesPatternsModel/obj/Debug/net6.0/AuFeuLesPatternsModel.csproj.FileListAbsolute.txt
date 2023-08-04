@@ -1,0 +1,12 @@
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.csproj.AssemblyReference.cache
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.AssemblyInfoInputs.cache
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.AssemblyInfo.cs
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.csproj.CoreCompileInputs.cache
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\bin\Debug\net6.0\AuFeuLesPatternsModel.deps.json
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\bin\Debug\net6.0\AuFeuLesPatternsModel.dll
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\bin\Debug\net6.0\AuFeuLesPatternsModel.pdb
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.dll
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\refint\AuFeuLesPatternsModel.dll
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\AuFeuLesPatternsModel.pdb
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsModel\obj\Debug\net6.0\ref\AuFeuLesPatternsModel.dll

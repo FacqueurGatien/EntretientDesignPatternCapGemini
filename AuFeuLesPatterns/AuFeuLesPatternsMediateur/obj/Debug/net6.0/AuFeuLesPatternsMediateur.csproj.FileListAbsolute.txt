@@ -1,0 +1,5 @@
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsMediateur\obj\Debug\net6.0\AuFeuLesPatternsMediateur.csproj.AssemblyReference.cache
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsMediateur\obj\Debug\net6.0\AuFeuLesPatternsMediateur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsMediateur\obj\Debug\net6.0\AuFeuLesPatternsMediateur.AssemblyInfoInputs.cache
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsMediateur\obj\Debug\net6.0\AuFeuLesPatternsMediateur.AssemblyInfo.cs
+C:\Users\gafacqueur\Desktop\entretientTechPattern\AuFeuLesPatterns\AuFeuLesPatternsMediateur\obj\Debug\net6.0\AuFeuLesPatternsMediateur.csproj.CoreCompileInputs.cache
