@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\AuFeuLesPatternsDecorateur.csproj": {}
+    "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\AuFeuLesPatternsDecorateur.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\AuFeuLesPatternsDecorateur.csproj": {
+    "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\AuFeuLesPatternsDecorateur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\AuFeuLesPatternsDecorateur.csproj",
+        "projectUniqueName": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\AuFeuLesPatternsDecorateur.csproj",
         "projectName": "AuFeuLesPatternsDecorateur",
-        "projectPath": "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\AuFeuLesPatternsDecorateur.csproj",
+        "projectPath": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\AuFeuLesPatternsDecorateur.csproj",
         "packagesPath": "C:\\Users\\gafacqueur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\obj\\",
+        "outputPath": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsDecorateur\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

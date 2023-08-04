@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatterns\\AuFeuLesPatterns.csproj",
+      "projectUniqueName": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatterns\\AuFeuLesPatterns.csproj",
       "projectName": "AuFeuLesPatterns",
-      "projectPath": "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatterns\\AuFeuLesPatterns.csproj",
+      "projectPath": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatterns\\AuFeuLesPatterns.csproj",
       "packagesPath": "C:\\Users\\gafacqueur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatterns\\obj\\",
+      "outputPath": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatterns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -60,8 +60,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\AuFeuLesPatternsModel.csproj": {
-              "projectPath": "C:\\Users\\gafacqueur\\Desktop\\entretientTechPattern\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\AuFeuLesPatternsModel.csproj"
+            "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\AuFeuLesPatternsModel.csproj": {
+              "projectPath": "C:\\Users\\gafacqueur\\Pictures\\EntretientCap\\EntretientDesignPatternCapGemini\\AuFeuLesPatterns\\AuFeuLesPatternsModel\\AuFeuLesPatternsModel.csproj"
             }
           }
         }
